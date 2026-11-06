@@ -1,0 +1,8 @@
+[
+  { "id": 1, "nama": "iPhone 13 Pro", "kategori": "HP", "harga": 15000000, "stok": 5 },
+  { "id": 2, "nama": "Samsung Galaxy A52", "kategori": "HP", "harga": 4500000, "stok": 0 },
+  { "id": 3, "nama": "ASUS ROG Strix", "kategori": "Laptop", "harga": 18500000, "stok": 3 },
+  { "id": 4, "nama": "Lenovo IdeaPad 3", "kategori": "Laptop", "harga": 8500000, "stok": 0 },
+  { "id": 5, "nama": "Earbuds Xiaomi", "kategori": "Aksesoris", "harga": 450000, "stok": 25 },
+  { "id": 6, "nama": "Powerbank Anker", "kategori": "Aksesoris", "harga": 350000, "stok": 0 }
+]
